@@ -1,4 +1,4 @@
-# Knowledge Hubs 
+# Knowledge Hubs
 
 The Global AI Liability Consortium develops AI liability through a growing network of specialized Knowledge Hubs.
 
@@ -20,7 +20,17 @@ While GAILC Departments organize expertise, Knowledge Hubs develop and share tha
 
 ---
 
-# What Every Knowledge Hub Develops
+# Knowledge Hub Development
+
+The Global AI Liability Consortium develops its Knowledge Hubs as enduring institutional assets.
+
+Each Knowledge Hub represents a long-term commitment to advancing a specific domain of AI liability through research, publications, professional resources, standards, assessment resources, and institutional collaboration.
+
+Knowledge Hubs progress at different stages of development while collectively contributing to GAILC's mission of building the world's enduring knowledge infrastructure for AI liability.
+
+---
+
+# What Every Knowledge Hub May Develop
 
 Each Knowledge Hub may develop:
 
@@ -28,6 +38,7 @@ Each Knowledge Hub may develop:
 - Research
 - Professional Guidance
 - Assessment Frameworks
+- Assessment Tools
 - Checklists
 - Templates
 - Publications
@@ -35,6 +46,7 @@ Each Knowledge Hub may develop:
 - Case Studies
 - Regulatory Analysis
 - Best Practices
+- Standards
 - Institutional Collaboration
 
 The specific resources developed within each Knowledge Hub reflect the needs of its discipline.
@@ -43,69 +55,70 @@ The specific resources developed within each Knowledge Hub reflect the needs of 
 
 # Current Knowledge Hubs
 
-## GPAILiability.com
+## General AI Liability
 
-The General AI Liability Knowledge Hub and flagship platform of the Global AI Liability Consortium.
-
----
-
-## AIAuditLiability.com
-
-Advancing practical knowledge on AI auditing, assurance, audit readiness, audit evidence, and accountability.
+- **GPAILiability.com**  
+  The flagship General AI Liability Knowledge Hub of the Global AI Liability Consortium.
 
 ---
 
-## AIModelRiskManagement.com
+## Governance, Risk & Assurance
 
-Advancing practical knowledge on AI model governance, validation, monitoring, documentation, and lifecycle risk management.
-
----
-
-## AIInsuranceLiability.com
-
-Advancing practical knowledge on AI insurance, underwriting, actuarial analysis, liability transfer, and emerging insurance frameworks.
-
----
-
-## AIHiringLiability.com
-
-Advancing practical knowledge on AI used in recruitment, employment, workforce management, and workplace decision-making.
+- **AIAuditLiability.com**
+- **AIModelRiskManagement.com**
+- **AIConformityAssessments.com**
+- **AIQualityManagementLiability.com**
+- **AITechnicalDocumentationLiability.com**
+- **AIInsuranceLiability.com**
 
 ---
 
-## AIConformityAssessments.com
+## AI Governance & Accountability
 
-Advancing practical knowledge on AI conformity assessment, certification, regulatory compliance, and market readiness.
-
----
-
-## AIQualityManagementLiability.com
-
-Advancing practical knowledge on quality management systems and organizational governance for AI.
-
----
-
-## AITechnicalDocumentationLiability.com
-
-Advancing practical knowledge on technical documentation, traceability, evidence preservation, and regulatory documentation.
+- **AgenticAILiability.com**
+- **AIDeployerLiability.com**
+- **HumanOversightLiability.com**
+- **AlgorithmicTransparencyLiability.com**
+- **AutonomousDecisionLiability.com**
+- **FundamentalRightsImpactLiability.com**
 
 ---
 
-## AlgorithmicBiasLiability.com
+## Sector & Functional Liability
 
-Advancing practical knowledge on algorithmic fairness, discrimination, bias mitigation, and accountability.
+- **AIHiringLiability.com**
+- **AIRecruitmentLiability.com**
+- **AICreditScoringLiability.com**
+- **AIMedicalDeviceLiability.com**
+- **AICriticalInfrastructure.com**
+- **ChildSafetyLiability.com**
 
 ---
 
-## AICyberLiability.com
+## Transportation & Autonomous Systems
 
-Advancing practical knowledge on cybersecurity, resilience, incident response, and cyber liability involving AI systems.
+- **AutonomousVehicleLiability.com**
+- **GroundVehicleAILiability.com**
 
 ---
 
-## AISystemicRiskLiability.com
+## Algorithmic Accountability
 
-Advancing practical knowledge on systemic AI risk, interconnected systems, and institutional resilience.
+- **AlgorithmicBiasLiability.com**
+- **AIBiasLiability.com**
+
+---
+
+## Cyber & Systemic Risk
+
+- **AICyberLiability.com**
+- **AISystemicRiskLiability.com**
+
+---
+
+## Foundation Models
+
+- **GPAIModelLiability.com**
 
 ---
 
@@ -113,9 +126,13 @@ Advancing practical knowledge on systemic AI risk, interconnected systems, and i
 
 Each Knowledge Hub may be developed in collaboration with a Founding Knowledge Partner.
 
-Founding Knowledge Partners contribute expertise, research, professional experience, and practical insight that strengthen the Knowledge Hub while supporting GAILC's broader mission.
+Founding Knowledge Partners contribute expertise, research, professional experience, practical insight, and institutional leadership that strengthen the Knowledge Hub while supporting GAILC's broader mission.
 
-Knowledge Hubs remain part of the Global AI Liability Consortium and collectively advance its enduring knowledge infrastructure.
+Each Knowledge Hub has a single Founding Knowledge Partner.
+
+Organizations may serve as the Founding Knowledge Partner for more than one Knowledge Hub where their expertise aligns with the Consortium's mission.
+
+Knowledge Hubs remain permanent institutional assets of the Global AI Liability Consortium.
 
 ---
 
@@ -125,15 +142,17 @@ Departments organize expertise.
 
 Knowledge Hubs develop and share that expertise.
 
+Founding Knowledge Partners help build the Knowledge Hubs.
+
 Together, they strengthen the Global AI Liability Consortium.
 
 ---
 
 # Closing Statement
 
-Each Knowledge Hub contributes to its own discipline.
+Every Knowledge Hub advances its own discipline.
 
-Together, they advance one institutional purpose.
+Together, they build one enduring institutional resource for organizations, professionals, researchers, policymakers, and the public.
 
 > **Building the world's enduring knowledge infrastructure for AI liability.**
 
