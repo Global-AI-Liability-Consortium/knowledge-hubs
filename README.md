@@ -1,4 +1,4 @@
-# Knowledge Hubs
+# Knowledge Hubs 
 
 The Global AI Liability Consortium develops AI liability through a growing network of specialized Knowledge Hubs.
 
